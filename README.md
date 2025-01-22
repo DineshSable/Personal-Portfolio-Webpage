@@ -20,3 +20,7 @@
 # Footer: Fixed at the bottom with copyright information.
 
 # Output:
+
+![Image](https://github.com/user-attachments/assets/5519eef8-6538-45ca-b13e-0e7f429f3939)
+
+![Image](https://github.com/user-attachments/assets/f3c6dd7c-1925-4c46-af04-33c7260362bc)
